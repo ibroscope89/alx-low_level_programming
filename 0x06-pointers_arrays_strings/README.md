@@ -1,0 +1,1 @@
+arrays string 0x06
